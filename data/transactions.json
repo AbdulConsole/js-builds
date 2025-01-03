@@ -1,0 +1,18 @@
+[
+  {
+    "transactionId": 101,
+    "user": "John Doe",
+    "card": "Amazon Gift Card",
+    "type": "Purchase",
+    "price": 48.99,
+    "date": "2025-01-02"
+  },
+  {
+    "transactionId": 102,
+    "user": "Jane Smith",
+    "card": "Netflix Premium Card",
+    "type": "Sale",
+    "price": 12.99,
+    "date": "2025-01-03"
+  }
+]
