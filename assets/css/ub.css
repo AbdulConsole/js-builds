@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #F0F8FF;
+  color: gray;
+  font-size: 22px;
+  padding: 10px 20px;
+}
+.screen1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  height: 94vh;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 700;
+}
+.screen2 {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  height: 94vh;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 700;
+}
+.screen3 {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  height: 94vh;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+input {
+  border: none;
+  background: white;
+  font-size: 24px;
+  width: 200px;
+  padding: 8px;
+}
+/*
+#uname:before {
+  content: "@";
+}*/
+.btn {
+  border: none;
+  background: #33646F;
+  color: #ffffff;
+  font-size: 24px;
+  width: 120px;
+  padding: 8px;
+  border-radius: 5px;
+}
+.btn:disabled {
+  background-color: #d3d3d3;
+  color: #a9a9a9;
+  cursor: not-allowed;
+}
