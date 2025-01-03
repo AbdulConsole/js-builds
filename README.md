@@ -1,4 +1,4 @@
 # user-buy
 
-User buy is a simple application that would enable buyers to have access to premium cards, and be able to make purchase with those cards for any financial transaction.
+A web application that enables buyers and sellers to trade gift cards and premium cards. Users can purchase cards for financial transactions or utilize them directly for payment purposes.
 
