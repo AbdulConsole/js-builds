@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "type": "Gift Card",
+    "name": "Amazon Gift Card",
+    "value": "$50",
+    "price": 48.99,
+    "image": "assets/images/amazon-card.png"
+  },
+  {
+    "id": 2,
+    "type": "Premium Card",
+    "name": "Netflix Premium Card",
+    "value": "1 Month",
+    "price": 12.99,
+    "image": "assets/images/netflix-card.png"
+  }
+]
