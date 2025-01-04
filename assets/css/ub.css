@@ -44,7 +44,28 @@ body {
   font-size: 30px;
   font-weight: 700;
 }
-
+.screen4 {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  height: 94vh;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 700;
+}
+.screen5 {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  height: 94vh;
+  width: 100%;
+  font-size: 30px;
+  font-weight: 700;
+}
 input {
   border: none;
   background: white;
